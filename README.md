@@ -23,7 +23,7 @@ java -jar deDoc2.jar [-inputfile file] [-sparseformat] [-binsize size] [-outputf
 
 ### Input Hi-C format
 
-deDoc2 support both contact matrix format and sparse format as in deDoc.
+deDoc2 supports both contact matrix format and sparse format as in deDoc. deDoc2 needs no normalization process like deDoc, raw Hi-C data is suitable.
 
 - contact matrix format: n × n intra-chromosome contact matrix, tab split.
 
