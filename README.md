@@ -57,4 +57,4 @@ deDoc2 supports both contact matrix format and sparse format as in deDoc. deDoc2
 - file suffixed `.TAD` is the result of deDoc2.w, the higher level of TLD.
 - file suffixed `.window.TAD` is the result of deDoc2.s, the lower level of TLD.
 
-The output files contains partitions as TLD results. Each line represents a TLD, containg the node id of this TLD, space split, numbering from 1..
+The output files contains partitions as TLD results. Each line represents a TLD, containg the node id of this TLD, space split, numbering from 1.
