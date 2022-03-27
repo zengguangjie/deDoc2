@@ -19,7 +19,7 @@ deDoc2 relys on java environment.
 java -jar deDoc2.jar [-inputfile file] [-sparseformat] [-binsize size] [-outputfile file] [-windowsize size] [-maxTLDsize size] 
 [-rwr] [-rp rp] [-NDI] [-help]
 
-`>> java -jar deDoc2.jar -inputfile ./exmaple/14.clean.con.chr18.matrix -binsize 40`
+`>> java -jar deDoc2.jar -inputfile ./example/14.clean.con.chr18.matrix -binsize 40`
 
 ### Input Hi-C format
 
